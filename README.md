@@ -12,6 +12,7 @@
   <img src="https://img.shields.io/badge/Algorithm-000000?style=for-the-badge&logo=codeforces&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </p>
 
@@ -25,6 +26,7 @@
 | 🧠 Algorithm | 알고리즘 & 자료구조 문제 풀이 | [🔗 이동](https://github.com/doyeon789/Algorithm) |
 | 🐍 Django | Django 기반 백엔드 개발 | [🔗 이동](https://github.com/doyeon789/Study-Django) |
 | ☕ Spring Boot | Java & Spring 서버 개발 | [🔗 이동](https://github.com/doyeon789/Study-SpringBoot) |
+| 🟨 JavaScript | JavaScript 기초 및 DOM 학습 | [🔗 이동](https://github.com/doyeon789/Study-JavaScript) |
 | ⚛️ React | React 프론트엔드 개발 | [🔗 이동](https://github.com/doyeon789/Study-React) |
 
 ---
